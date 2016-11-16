@@ -1,1 +1,6 @@
----Façam um Arquivo checklist com o nome de vocês e joguem no repositorio---
+**********************************************************************************************
+
+Editem o Arquivo "Checklist.txt" colocando o nome no ([ ]) item que irá desenvolver do projeto
+
+
+**********************************************************************************************
