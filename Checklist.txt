@@ -1,0 +1,73 @@
+
+[   ]Ato 1 
+	[  ] Texto	 
+	[  ] Animação
+	
+	
+[   ]Ato 2
+	[  ] Odair			
+		( ) Sprite
+		( ) Movimentação
+		( ) Fisica
+		( ) Som
+		( ) Habilidades
+		( ) Vida		
+	[  ] Alunos
+		( ) Sprite
+		( ) AI
+		( ) Fisica
+		( ) Som
+		( ) Vida	
+	[  ] Mapa_1
+		( ) Estrutura
+		( ) Som
+
+		
+[   ]Ato 3 	
+	[  ] Texto 
+	[  ] Odair
+		( ) Sprite
+		( ) Animação
+	[  ] Maquina
+		( ) Sprite
+		( ) Animação
+
+[   ]Ato 4 
+	[  ] Odair   
+		( ) Sprite
+		( ) Movimentação
+		( ) Fisica
+		( ) Som
+		( ) Habilidades
+		( ) Vida	
+	[  ] Trabalhadores
+		( ) Sprite
+		( ) AI
+		( ) Fisica
+		( ) Som
+		( ) Vida
+	[  ] Mapa 2
+		( ) Estrutura
+		( ) Som
+
+[   ]Ato 5 
+	[  ] Odair
+	[  ] Engenheiro
+		( ) Sprite
+		( ) AI
+		( ) Fisica
+		( ) Som
+		( ) Vida
+	[  ] Mapa_3
+		( ) Estrutura
+		( ) Som
+
+[   ]Ato 6
+	[  ] Texto
+	[  ] Odair 
+		( ) Sprite
+		( ) Animação
+	
+	
+
+	
