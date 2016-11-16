@@ -1,11 +1,11 @@
 
 [   ]Ato 1 
-	[  ] Texto	 
+	[ LUCAS ] Texto	 
 	[  ] Animação
 	
 	
 [   ]Ato 2
-	[  ] Odair			
+	[ LUCAS ] Odair			
 		( ) Sprite
 		( ) Movimentação
 		( ) Fisica
@@ -24,7 +24,7 @@
 
 		
 [   ]Ato 3 	
-	[  ] Texto 
+	[ LUCAS ] Texto 
 	[  ] Odair
 		( ) Sprite
 		( ) Animação
@@ -33,7 +33,7 @@
 		( ) Animação
 
 [   ]Ato 4 
-	[  ] Odair   
+	[ LUCAS ] Odair   
 		( ) Sprite
 		( ) Movimentação
 		( ) Fisica
@@ -51,7 +51,7 @@
 		( ) Som
 
 [   ]Ato 5 
-	[  ] Odair
+	[ LUCAS ] Odair
 	[  ] Engenheiro
 		( ) Sprite
 		( ) AI
@@ -63,8 +63,8 @@
 		( ) Som
 
 [   ]Ato 6
-	[  ] Texto
-	[  ] Odair 
+	[ LUCAS ] Texto
+	[ LUCAS ] Odair 
 		( ) Sprite
 		( ) Animação
 	
