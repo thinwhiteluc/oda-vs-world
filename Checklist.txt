@@ -23,7 +23,7 @@
 		( ) Som
 
 		
-[   ]Ato 3 	
+[ LUCAS  ]Ato 3 	
 	[ LUCAS ] Texto 
 	[ LUCAS ] Odair
 		( ) Sprite
@@ -32,7 +32,7 @@
 		( ) Sprite
 		( ) Animação
 
-[   ]Ato 4 
+[  LUAN ]Ato 4 
 	[ LUCAS ] Odair   
 		( ) Sprite
 		( ) Movimentação
@@ -50,7 +50,7 @@
 		( ) Estrutura
 		( ) Som
 
-[   ]Ato 5 
+[ LUAN/FERNANDO  ]Ato 5 
 	[ LUCAS ] Odair
 	[ FERNANDO ] Engenheiro
 		( ) Sprite
@@ -62,7 +62,7 @@
 		( ) Estrutura
 		( ) Som
 
-[   ]Ato 6
+[ LUCAS? ]Ato 6
 	[ LUCAS ] Texto
 	[ LUCAS ] Odair 
 		( ) Sprite
