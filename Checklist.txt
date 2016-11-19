@@ -1,10 +1,10 @@
 
-[   ]Ato 1 
+[ LUCAS ]Ato 1 
 	[ LUCAS ] Texto	 
-	[  ] Animação
+	[ LUCAS ] Animação
 	
 	
-[   ]Ato 2
+[ LUCAS ]Ato 2
 	[ LUCAS ] Odair			
 		( ) Sprite
 		( ) Movimentação
@@ -12,23 +12,23 @@
 		( ) Som
 		( ) Habilidades
 		( ) Vida		
-	[  ] Alunos
+	[ MATEUS ] Alunos
 		( ) Sprite
 		( ) AI
 		( ) Fisica
 		( ) Som
 		( ) Vida	
-	[  ] Mapa_1
+	[ MATEUS ] Mapa_1
 		( ) Estrutura
 		( ) Som
 
 		
 [   ]Ato 3 	
 	[ LUCAS ] Texto 
-	[  ] Odair
+	[ LUCAS ] Odair
 		( ) Sprite
 		( ) Animação
-	[  ] Maquina
+	[ LUCAS ] Maquina
 		( ) Sprite
 		( ) Animação
 
@@ -40,25 +40,25 @@
 		( ) Som
 		( ) Habilidades
 		( ) Vida	
-	[  ] Trabalhadores
+	[ LUAN  ] Trabalhadores
 		( ) Sprite
 		( ) AI
 		( ) Fisica
 		( ) Som
 		( ) Vida
-	[  ] Mapa 2
+	[ LUAN ] Mapa 2
 		( ) Estrutura
 		( ) Som
 
 [   ]Ato 5 
 	[ LUCAS ] Odair
-	[  ] Engenheiro
+	[ FERNANDO ] Engenheiro
 		( ) Sprite
 		( ) AI
 		( ) Fisica
 		( ) Som
 		( ) Vida
-	[  ] Mapa_3
+	[ LUAN ] Mapa_3
 		( ) Estrutura
 		( ) Som
 
