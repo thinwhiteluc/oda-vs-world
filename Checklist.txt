@@ -4,26 +4,30 @@
 	[ LUCAS ] Animação
 	
 	
-[ LUCAS ]Ato 2
-	[ LUCAS ] Odair			
+[  ]Ato 2
+	[  ] Odair			
 		( ) Sprite
 		( ) Movimentação
 		( ) Fisica
 		( ) Som
 		( ) Habilidades
 		( ) Vida		
-	[ MATEUS ] Alunos
+	[  ] Alunos
 		( ) Sprite
 		( ) AI
 		( ) Fisica
 		( ) Som
 		( ) Vida	
-	[ MATEUS ] Mapa_1
+	[  ] Mapa_1
 		( ) Estrutura
 		( ) Som
 
+Provisorio
+	-Explicando um final alternativo
+
 		
-[ LUCAS  ]Ato 3 	
+--CANCELADO
+[ LUCAS  ]Ato 3  	
 	[ LUCAS ] Texto 
 	[ LUCAS ] Odair
 		( ) Sprite
